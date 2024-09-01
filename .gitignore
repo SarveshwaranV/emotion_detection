@@ -4,3 +4,5 @@ venv
 src/training_data/happy
 src/training_data/neutral
 src/training_data/sad
+myenv
+
